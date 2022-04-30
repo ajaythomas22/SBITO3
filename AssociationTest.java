@@ -19,10 +19,10 @@ public class AssociationTest {
 
 class BankAdmin {
 	
-	BankAccount processApplication(Application app) {
-		BankAccount ba1 = new BankAccount(101, "Jac", 50000, "9567103471");
-		return ba1;
-	}
+//	BankAccount processApplication(Application app) {
+//		BankAccount ba1 = new BankAccount(101, "Jac", 50000, "9567103471");
+//		return ba1;
+//	}
 }
 
 	void changeMobileNumber(BankAccount ba, String m) {

@@ -6,9 +6,9 @@ public class FootballTurfBooking {
 		book1.booking1();
 		book1.booking2(1400, 1.5, 12);
 		
-		Bookings book2 = new Bookings(2000, 2 , 14);
-		book2.booking3(book1);
-		book2.booking4();
+//		Bookings book2 = new Bookings(2000, 2 , 14);
+//		book2.booking3(book1);
+//		book2.booking4();
 	}
 }
 
@@ -61,9 +61,9 @@ class Bookings {
 		System.out.println("---------------------------------");
 	}
 
-	void booking3(Bookings book) {
-			
-	}
+//	void booking3(Bookings book) {
+//			
+//	}
 
 	void booking4() {
 		int money = 2400;
