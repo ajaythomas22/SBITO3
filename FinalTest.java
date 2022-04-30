@@ -31,7 +31,8 @@ final class Chess {
 //class GraphicalChess extends Chess {
 //	
 //		void moveMyBishop() {
-//
+
+//			super.moveBishop();
 //			System.out.println("GC- My own Math logic to move bishop in ");
 //		
 //		}
