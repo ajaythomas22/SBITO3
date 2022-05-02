@@ -138,6 +138,7 @@ class Flute extends AirBasedMusicalInstrument {
 	@Override
 	void blow() {
 		
+		System.out.println("Plucking the Sitar....");
 	}
 
 	@Override
